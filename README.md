@@ -21,4 +21,4 @@ Use at your own risk: The author is not responsible for any system damage or leg
 
 DMCA Notice: This repository exists for educational and compatibility purposes only. 
 "Pls, DMCA and Nvidia, don't come here =("
-                                                         -Bonmiuken-
+                                                 
