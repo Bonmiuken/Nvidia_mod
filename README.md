@@ -20,5 +20,6 @@ Non-Licensed: This version is provided without any official NVIDIA license or wa
 Use at your own risk: The author is not responsible for any system damage or legal issues arising from the use of this modified binary.
 
 DMCA Notice: This repository exists for educational and compatibility purposes only. 
+
 "Pls, DMCA and Nvidia, don't come here =("
-                                                 
+                                                
