@@ -23,3 +23,6 @@ DMCA Notice: This repository exists for educational and compatibility purposes o
 
 "Pls, DMCA and Nvidia, don't come here =("
                                                 
+"But if Nvidia comes here, then you should check this out: https://www.youtube.com/watch?v=Q4SWxWIOVBM"
+
+                                                                                              
