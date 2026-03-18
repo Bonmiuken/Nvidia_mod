@@ -21,8 +21,7 @@ Use at your own risk: The author is not responsible for any system damage or leg
 
 DMCA Notice: This repository exists for educational and compatibility purposes only. 
 
-"Pls, DMCA and Nvidia, don't come here =("
-                                                
-"But if Nvidia comes here, then you should check this out: https://www.youtube.com/watch?v=Q4SWxWIOVBM"
+"Dear NVIDIA & DMCA: Please stay away. =("
 
+"But if you're already here... Linus Torvalds has a special message for you: https://www.youtube.com/watch?v=Q4SWxWIOVBM"
                                                                                               
