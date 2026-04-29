@@ -19,9 +19,6 @@ Non-Licensed: This version is provided without any official NVIDIA license or wa
 
 Use at your own risk: The author is not responsible for any system damage or legal issues arising from the use of this modified binary.
 
-DMCA Notice: This repository exists for educational and compatibility purposes only. 
+Notice: This repository exists for educational and compatibility purposes only. 
 
-"Dear NVIDIA & DMCA: Please stay away. =("
-
-"But if you're already here... Linus Torvalds has a special message for you: https://www.youtube.com/watch?v=Q4SWxWIOVBM"
                                                                                               
